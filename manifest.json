@@ -13,7 +13,7 @@
             "default": "Ctrl+Shift+Y",
             "mac": "Command+Shift+Y"
           },
-          "description": "Open a cool random webiste"
+          "description": "Open a cool random repo"
         }
     }
 }
