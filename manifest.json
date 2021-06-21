@@ -1,0 +1,19 @@
+{
+    "name": "The sound box",
+    "description": "Shortcuts for your favorite sounds!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+      },
+    "commands": 
+    {
+        "toggle-feature-foo": {
+          "suggested_key": {
+            "default": "Ctrl+Shift+Y",
+            "mac": "Command+Shift+Y"
+          },
+          "description": "Le sang de tes morts!"
+        }
+    }
+}
